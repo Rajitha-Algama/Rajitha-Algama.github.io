@@ -2,6 +2,7 @@
 title: Rajitha Algama
 layout: default
 ---
+
 ## Senior Software QA Lead & Automation Architect  
 📍 Auckland, New Zealand (Open to Remote / Local)  
 💼 *Fully authorized to work full-time in New Zealand (No restrictions or sponsorship required)*
